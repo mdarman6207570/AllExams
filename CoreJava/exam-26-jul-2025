@@ -1,0 +1,49 @@
+Student Name: mdarman6207570@gmail.com
+
+Transaction Id: 111761
+
+Grade: Excellent
+
+Total Questions: 30
+
+Correct Answers: 27
+
+Attempted: 30
+
+Non-Attempted: 0
+
+Question No	Question Description	Attempted Answer	Result	Status
+1	3. Which of these is a floating-point literal?	B) 10.5F		Attempted
+2	7. What does the expression a &= b mean in Java?	B) a = a & b		Attempted
+3	30. What is the output of this? int x = 10; int y = 20; System.out.println(x > y ? x : y);	B) 20		Attempted
+4	4. How is the character literal 'A' stored in Java internally?	B) As a Unicode value		Attempted
+5	27. Which statement about switch-case in Java is FALSE?	B) It always requires an integer expression		Attempted
+6	9. Given int x = 0b1010;, what is the value of x?	C) 10		Attempted
+7	6. How would you represent the hexadecimal number 24 as a literal in Java?	B) 0x24		Attempted
+8	23. What is the purpose of the break statement in a traditional switch?	B) To exit the switch statement		Attempted
+9	26. What is the output? int month = 2; System.out.println( switch(month) { case 2 -> 28; default -> 0; } );	D) Compile Error		Attempted
+10	21. What happens if a switch expression in Java 14 does not have a default branch and no case matches?	C) Compile-time error		Attempted
+11	24. In Java 14 switch expressions, how is code structured for complex/Multiple statement cases?	B) Use a block and yield a value		Attempted
+12	2. What kind of literal is represented by "true" in Java?	B) Boolean literal		Attempted
+13	16. Which statement is true for switch expressions in Java 14?	B) "case L ->" syntax is not allowed		Attempted
+14	13. What is the result of true && false?	B) false		Attempted
+15	15. What does the following return: (5 > 3) ? 10 : 20;?	A) 10		Attempted
+16	11 . Which of the following statements about shorthand assignment operators in Java is true?	C) The expression x *= y + z is equivalent to x = x * (y + z).		Attempted
+17	1. Which of the following is a valid integer literal in Java?	B) 021		Attempted
+18	18. How do you specify multiple labels in a switch expression in Java 14?	C) case 1, 2, 3 ->		Attempted
+19	5. Which of the following is not a valid literal in Java?	D) 123LD		Attempted
+20	17. What new keyword is introduced in Java 14's switch expression to return a value from a code block?	C) yield		Attempted
+21	29. Which operator will always give a boolean result?	C) &&		Attempted
+22	28. What is the output of the following? String day = "TUESDAY"; String out = switch(day) { case "MONDAY", "TUESDAY", "WEDNESDAY" -> "Weekday"; default -> "Other"; }; System.out.print(out);	B) Weekday		Attempted
+23	14. Which operator is used for object reference comparison?	C) equals()		Attempted
+24	12. What will System.out.println(10 + "20"); output?	B) 1020		Attempted
+25	22. Which of these types can be used in a switch statement's expression (Java 14)?	C) String		Attempted
+26	8. Which of these operators has the highest precedence?	D) *		Attempted
+27	25. Which is a correct usage of switch expression in Java 14?	B) int days = switch (month) { case 1,3,5 -> 31; ... };		Attempted
+28	20. What is printed by this Java 14 code? int num = 2; String result = switch (num) { case 1 -> "one"; case 2 -> "two"; default -> "other"; }; System.out.println(result);	B) two		Attempted
+29	19. Which of the following is NOT valid in a Java 14 switch expression?	D) Default is not mandatory		Attempted
+30	10. What is the result of 10 / 3 in Java (assuming integer division)?	B) 3		Attempted
+
+
+
+Exam Result   : I got 27 marks.
