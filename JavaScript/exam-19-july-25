@@ -1,0 +1,39 @@
+Student Name: mdarman6207570@gmail.com
+
+Transaction Id: 109223
+
+Grade: Outstanding
+
+Total Questions: 20
+
+Correct Answers: 18
+
+Attempted: 20
+
+Non-Attempted: 0
+
+Question No	Question Description	Attempted Answer	Result	Status
+1	6. How can you stop a loop from executing further in JavaScript?	B. break		Attempted
+2	9. What does the following function return? function add(a, b) { return a + b; } console.log(add(2, 3));	B. 5		Attempted
+3	18. What does arr.pop() do?	B. Removes last element		Attempted
+4	3. Which operator is used for strict equality in JavaScript?	===		Attempted
+5	11. Which of the following is a correct way to write a function expression?	B. let myFunc = function() {}		Attempted
+6	1. Which of the following is the correct syntax to declare a JavaScript variable?	C. var name = value;		Attempted
+7	15. How do you declare an array in JavaScript?	C. let arr =[] ;		Attempted
+8	17. Which array method adds a new element to the end of an array?	A. push()		Attempted
+9	10. What is the default return type of a function if no return statement is specified?	A. null		Attempted
+10	5. Which of the following loops will run at least once even if the condition is false?	C. do...while		Attempted
+11	7. Which keyword is used to skip the current iteration of a loop?	C. continue		Attempted
+12	20. What will be the result of the following code? let nums = [10, 20, 30]; console.log(nums[1]);	B. 20		Attempted
+13	2. What will be the output of the following code? let x = 5; let y = '5'; console.log(x == y);	A. true		Attempted
+14	8. How do you define a function in JavaScript?	B. function myFunction() {}		Attempted
+15	16. What is the index of the first element in a JavaScript array?	A. 0		Attempted
+16	12. What will be the output? function foo(x = 10) { return x; } console.log(foo());	D. 10		Attempted
+17	14. How do you call a function named greet?	C. greet();		Attempted
+18	13. Which of the following is NOT a valid JavaScript function type?	D. Declared function class		Attempted
+19	19. Which method returns the number of elements in an array?	C. arr.length		Attempted
+20	4. What is the result of typeof null in JavaScript?	A. null		Attempted
+
+
+
+Exam Result  : I got 18 marks.
